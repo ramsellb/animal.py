@@ -1,4 +1,4 @@
-# animal_ramsellb.py
+# Author: Benjamin Ramsell
 # Date: 6/24/2020
 # Description: Programs asks a user for their favorite animal,
 #              then prints out their favorite animal on screen
